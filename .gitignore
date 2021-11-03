@@ -2,3 +2,4 @@ gclust/
 seqkit
 .env/
 ataskaita/
+**/.ipynb_checkpoints
